@@ -4,7 +4,7 @@ Cabal Domain Viper 🐍
 
 A powerful reconnaissance tool designed for licensed Private Investigators and security professionals. Combines subdomain enumeration with deep content extraction and threat intelligence gathering from multiple APIs.
 
-## 🎯 Features
+🎯 Features
 
 ### Core Capabilities
 - **Subdomain Enumeration**: Fast DNS-based subdomain discovery using built-in or custom wordlists
@@ -15,12 +15,14 @@ A powerful reconnaissance tool designed for licensed Private Investigators and s
   - Images and media files
   - Archives and data files
   - API endpoints and URLs
+    
 - **Sensitive Data Detection**: Identifies exposed:
   - API keys (AWS, Google, GitHub, etc.)
   - Access tokens and Bearer tokens
   - Secrets and credentials
   - Database connection strings
   - Passwords in source code
+    
 - **Host Intelligence** (Optional): Integrates with IP2Location.io, Host.io, and IP-API.com for:
   - Geolocation data
   - Network information (ISP, ASN)
